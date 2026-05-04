@@ -1,3 +1,4 @@
+import react from "react";
 export default function App() {
   return (
     <div style={{fontFamily:'Arial', padding:'40px', textAlign:'center'}}>
